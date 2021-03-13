@@ -1,0 +1,29 @@
+
+.containers{
+    display:flex;
+    height : 60px;
+    width:35%;
+    border:1px solid black;
+    
+}
+.subcontainers{
+    height:60px;
+    width:60px;
+
+}
+
+.white{
+    
+    background-color:white;
+}
+.black{
+    
+    background-color:black;
+}
+.main{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
